@@ -1,0 +1,17 @@
+body, html {
+    background-color: lightsalmon;
+}
+
+h1 {
+    color: black;
+    font-size: 60px;
+}
+
+.blurb {
+    color: teal;
+}
+
+.main {
+    padding-left: 10vw;
+    padding-top: 20vw;
+}
