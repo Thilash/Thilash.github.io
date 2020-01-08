@@ -1,5 +1,7 @@
 body, html {
-    background-color: lightsalmon;
+    background-image: url(plant.jpg);
+    background-size: cover;
+    background-position-y: -150px;
 }
 
 h1 {
@@ -8,10 +10,41 @@ h1 {
 }
 
 .blurb {
-    color: teal;
+    color: black;
+    font-family: 'Acme';
+}
+
+.yerpp {
+    margin-left: 19vw;
+    color: darkgreen;
+    font-family: 'Acme';
+}
+
+.yerpp:hover span{
+    display:none
+}
+
+.yerpp:hover:before {
+    color: darkcyan;
+    content: "(The-lay-sh.)";
+    font-family: 'Acme';
 }
 
 .main {
-    padding-left: 10vw;
-    padding-top: 20vw;
+    padding-left: 10px;
+    padding-top: 4vw;
+}
+
+h6 {
+    margin-left: 57vw;
+    padding-top: 20px;
+    opacity: 0.5;
+    cursor: progress;
+}
+
+.logo {
+
+    margin-left: 142px;
+    display: inline-block;
+
 }
