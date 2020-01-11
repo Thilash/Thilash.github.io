@@ -15,7 +15,7 @@ h1 {
 }
 
 .yerpp {
-    margin-left: 19vw;
+    margin-left: 25%;
     color: darkgreen;
     font-family: 'Acme';
 }
@@ -26,31 +26,33 @@ h1 {
 
 .yerpp:hover:before {
     color: darkcyan;
-    content: "(The-laysh.)";
+    content: "(The-lay-sh.)";
     font-family: 'Acme';
 }
 
 .main {
-    padding-left: 10px;
-    padding-top: 4vw;
+    padding-left: 1%;
+    padding-top: 3%;
 }
 
 h6 {
-    margin-left: 57vw;
-    padding-top: 20px;
+    margin-left: 70%;
+    padding-top: 2%;
     opacity: 0.5;
     cursor: progress;
+    font-size: 19px
 }
 
 .logo {
 
-    margin-left: 142px;
+    margin-left: 10%;
     display: inline-block;
 
 }
 
 #thilash {
-    margin-left: 400px;
+    margin-left: 35%;
+    margin-bottom: 3%
     
 }
 
